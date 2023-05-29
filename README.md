@@ -10,4 +10,5 @@ HiLow card game | Igra "VeceManje"
  Ukoliko, igrač uspiješno pogodi vrijednost druge karte u odnosu na prvu kartu, druga karta se prikazuje, a igrač ponovo ima izbor vrijednosti treće karte u odnosu na drugu.
  Igra se završava pobjedom igrača, sa odgovarajućom porukom, ukoliko se sve četiri karte uspiješno otkriju.
  
-                   ![Izrezak](https://github.com/Smrkenzi/HiLow-card-game/assets/119063853/a902e60c-161f-402d-b984-deb065e61b7a)
+               
+![Izrezak](https://github.com/Smrkenzi/HiLow-card-game/assets/119063853/67fe3d9d-1d71-4c38-935b-6798336721bf)
