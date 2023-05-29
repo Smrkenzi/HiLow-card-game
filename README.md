@@ -1,5 +1,5 @@
 # HiLow-card-game
-card games in C#
+HiLow card game | Igra "VeceManje"
 
  The "Hi-Low" card game is a simple guessing game typically played with a standard deck of 52 playing cards. 
  The objective of the game is to correctly predict whether the next card drawn from the deck will be 
@@ -9,3 +9,5 @@ card games in C#
  Igrač, zatim, bira jednu od ponuđenih opcija. Za drugu kartu, tj Veća, Manja ili Ista u odnosu na prvu kartu
  Ukoliko, igrač uspiješno pogodi vrijednost druge karte u odnosu na prvu kartu, druga karta se prikazuje, a igrač ponovo ima izbor vrijednosti treće karte u odnosu na drugu.
  Igra se završava pobjedom igrača, sa odgovarajućom porukom, ukoliko se sve četiri karte uspiješno otkriju.
+ 
+                   ![Izrezak](https://github.com/Smrkenzi/HiLow-card-game/assets/119063853/a902e60c-161f-402d-b984-deb065e61b7a)
